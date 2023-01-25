@@ -1,0 +1,673 @@
+Location,Crime,Total cases,Year
+Barcelona,Intentional homicides and consummated murders,36,2021
+Barcelona,Intentional homicides and attempted murders,137,2021
+Barcelona,Serious and less serious crimes of injuries and riotous brawl,2161,2021
+Barcelona,Kidnapping,80000,2021
+Barcelona,Crimes against freedom and sexual indemnity,2406,2021
+Barcelona,Sexual assault with penetration,436,2021
+Barcelona,Other crimes against freedom and sexual indemnity,1970,2021
+Barcelona,Robbery with violence and intimidation,18360,2021
+Barcelona,Burglaries with force in homes,16743,2021
+Barcelona,Robberies with force in homes,10697,2021
+Barcelona,Theft,97043,2021
+Barcelona,Vehicle theft,5074,2021
+Barcelona,Drug trafficking,2833,2021
+Barcelona,Other criminal offenses,152565,2021
+Madrid,Intentional homicides and consummated murders,37,2021
+Madrid,Intentional homicides and attempted murders,94,2021
+Madrid,Serious and less serious crimes of injuries and riotous brawl,2717,2021
+Madrid,Kidnapping,1300,2021
+Madrid,Crimes against freedom and sexual indemnity,2420,2021
+Madrid,Sexual assault with penetration,274,2021
+Madrid,Other crimes against freedom and sexual indemnity,2146,2021
+Madrid,Robbery with violence and intimidation,12153,2021
+Madrid,Burglaries with force in homes,12262,2021
+Madrid,Robberies with force in homes,8243,2021
+Madrid,Theft,108778,2021
+Madrid,Vehicle theft,6922,2021
+Madrid,Drug trafficking,2502,2021
+Madrid,Other criminal offenses,197970,2021
+Valencia,Intentional homicides and consummated murders,22,2021
+Valencia,Intentional homicides and attempted murders,65,2021
+Valencia,Serious and less serious crimes of injuries and riotous brawl,1241,2021
+Valencia,Kidnapping,2,2021
+Valencia,Crimes against freedom and sexual indemnity,1081,2021
+Valencia,Sexual assault with penetration,124,2021
+Valencia,Other crimes against freedom and sexual indemnity,957,2021
+Valencia,Robbery with violence and intimidation,3063,2021
+Valencia,Burglaries with force in homes,7018,2021
+Valencia,Robberies with force in homes,6054,2021
+Valencia,Theft,34443,2021
+Valencia,Vehicle theft,1338,2021
+Valencia,Drug trafficking,904,2021
+Valencia,Other criminal offenses,74380,2021
+Murcia,Intentional homicides and consummated murders,14,2021
+Murcia,Intentional homicides and attempted murders,46,2021
+Murcia,Serious and less serious crimes of injuries and riotous brawl,863,2021
+Murcia,Kidnapping,3000,2021
+Murcia,Crimes against freedom and sexual indemnity,613,2021
+Murcia,Sexual assault with penetration,61,2021
+Murcia,Other crimes against freedom and sexual indemnity,552,2021
+Murcia,Robbery with violence and intimidation,1375,2021
+Murcia,Burglaries with force in homes,4701,2021
+Murcia,Robberies with force in homes,3793,2021
+Murcia,Theft,11925,2021
+Murcia,Vehicle theft,666,2021
+Murcia,Drug trafficking,506,2021
+Murcia,Other criminal offenses,37088,2021
+Seville,Intentional homicides and consummated murders,8,2021
+Seville,Intentional homicides and attempted murders,57,2021
+Seville,Serious and less serious crimes of injuries and riotous brawl,691,2021
+Seville,Kidnapping,5,2021
+Seville,Crimes against freedom and sexual indemnity,600,2021
+Seville,Sexual assault with penetration,38,2021
+Seville,Other crimes against freedom and sexual indemnity,562,2021
+Seville,Robbery with violence and intimidation,1937,2021
+Seville,Burglaries with force in homes,4697,2021
+Seville,Robberies with force in homes,2565,2021
+Seville,Theft,18880,2021
+Seville,Vehicle theft,1309,2021
+Seville,Drug trafficking,642,2021
+Seville,Other criminal offenses,48461,2021
+Zaragoza,Intentional homicides and consummated murders,4,2021
+Zaragoza,Intentional homicides and attempted murders,8,2021
+Zaragoza,Serious and less serious crimes of injuries and riotous brawl,376,2021
+Zaragoza,Kidnapping,2,2021
+Zaragoza,Crimes against freedom and sexual indemnity,326,2021
+Zaragoza,Sexual assault with penetration,41,2021
+Zaragoza,Other crimes against freedom and sexual indemnity,285,2021
+Zaragoza,Robbery with violence and intimidation,912,2021
+Zaragoza,Burglaries with force in homes,1563,2021
+Zaragoza,Robberies with force in homes,1044,2021
+Zaragoza,Theft,7663,2021
+Zaragoza,Vehicle theft,199,2021
+Zaragoza,Drug trafficking,327,2021
+Zaragoza,Other criminal offenses,21316,2021
+Malaga,Intentional homicides and consummated murders,15,2021
+Malaga,Intentional homicides and attempted murders,48,2021
+Malaga,Serious and less serious crimes of injuries and riotous brawl,913,2021
+Malaga,Kidnapping,13,2021
+Malaga,Crimes against freedom and sexual indemnity,577,2021
+Malaga,Sexual assault with penetration,49,2021
+Malaga,Other crimes against freedom and sexual indemnity,528,2021
+Malaga,Robbery with violence and intimidation,1388,2021
+Malaga,Burglaries with force in homes,4154,2021
+Malaga,Robberies with force in homes,2933,2021
+Malaga,Theft,18720,2021
+Malaga,Vehicle theft,1493,2021
+Malaga,Drug trafficking,1078,2021
+Malaga,Other criminal offenses,47803,2021
+Barcelona,Intentional homicides and consummated murders,36,2020
+Barcelona,Intentional homicides and attempted murders,108,2020
+Barcelona,Serious and less serious crimes of injuries and riotous brawl,1598,2020
+Barcelona,Kidnapping,3,2020
+Barcelona,Crimes against freedom and sexual indemnity,1703,2020
+Barcelona,Sexual assault with penetration,285,2020
+Barcelona,Other crimes against freedom and sexual indemnity,1418,2020
+Barcelona,Robbery with violence and intimidation,15249,2020
+Barcelona,Burglaries with force in homes,4061,2020
+Barcelona,Robberies with force in homes,10979,2020
+Barcelona,Theft,92393,2020
+Barcelona,Vehicle theft,5075,2020
+Barcelona,Drug trafficking,2090,2020
+Barcelona,Other criminal offenses,135216,2020
+Madrid,Intentional homicides and consummated murders,38,2020
+Madrid,Intentional homicides and attempted murders,98,2020
+Madrid,Serious and less serious crimes of injuries and riotous brawl,2287,2020
+Madrid,Kidnapping,10,2020
+Madrid,Crimes against freedom and sexual indemnity,1976,2020
+Madrid,Sexual assault with penetration,217,2020
+Madrid,Other crimes against freedom and sexual indemnity,1759,2020
+Madrid,Robbery with violence and intimidation,10688,2020
+Madrid,Burglaries with force in homes,3234,2020
+Madrid,Robberies with force in homes,7052,2020
+Madrid,Theft,92213,2020
+Madrid,Vehicle theft,6235,2020
+Madrid,Drug trafficking,2470,2020
+Madrid,Other criminal offenses,181917,2020
+Valencia,Intentional homicides and consummated murders,14,2020
+Valencia,Intentional homicides and attempted murders,53,2020
+Valencia,Serious and less serious crimes of injuries and riotous brawl,892,2020
+Valencia,Kidnapping,8,2020
+Valencia,Crimes against freedom and sexual indemnity,779,2020
+Valencia,Sexual assault with penetration,92,2020
+Valencia,Other crimes against freedom and sexual indemnity,687,2020
+Valencia,Robbery with violence and intimidation,2355,2020
+Valencia,Burglaries with force in homes,1162,2020
+Valencia,Robberies with force in homes,5077,2020
+Valencia,Theft,24012,2020
+Valencia,Vehicle theft,1257,2020
+Valencia,Drug trafficking,907,2020
+Valencia,Other criminal offenses,64822,2020
+Murcia,Intentional homicides and consummated murders,10,2020
+Murcia,Intentional homicides and attempted murders,41,2020
+Murcia,Serious and less serious crimes of injuries and riotous brawl,645,2020
+Murcia,Kidnapping,1,2020
+Murcia,Crimes against freedom and sexual indemnity,505,2020
+Murcia,Sexual assault with penetration,64,2020
+Murcia,Other crimes against freedom and sexual indemnity,441,2020
+Murcia,Robbery with violence and intimidation,1207,2020
+Murcia,Burglaries with force in homes,400,2020
+Murcia,Robberies with force in homes,3796,2020
+Murcia,Theft,9925,2020
+Murcia,Vehicle theft,726,2020
+Murcia,Drug trafficking,389,2020
+Murcia,Other criminal offenses,32819,2020
+Seville,Intentional homicides and consummated murders,12,2020
+Seville,Intentional homicides and attempted murders,64,2020
+Seville,Serious and less serious crimes of injuries and riotous brawl,612,2020
+Seville,Kidnapping,5,2020
+Seville,Crimes against freedom and sexual indemnity,508,2020
+Seville,Sexual assault with penetration,31,2020
+Seville,Other crimes against freedom and sexual indemnity,477,2020
+Seville,Robbery with violence and intimidation,1802,2020
+Seville,Burglaries with force in homes,1223,2020
+Seville,Robberies with force in homes,2966,2020
+Seville,Theft,16081,2020
+Seville,Vehicle theft,1458,2020
+Seville,Drug trafficking,547,2020
+Seville,Other criminal offenses,46704,2020
+Zaragoza,Intentional homicides and consummated murders,2,2020
+Zaragoza,Intentional homicides and attempted murders,26,2020
+Zaragoza,Serious and less serious crimes of injuries and riotous brawl,303,2020
+Zaragoza,Kidnapping,1,2020
+Zaragoza,Crimes against freedom and sexual indemnity,225,2020
+Zaragoza,Sexual assault with penetration,29,2020
+Zaragoza,Other crimes against freedom and sexual indemnity,196,2020
+Zaragoza,Robbery with violence and intimidation,728,2020
+Zaragoza,Burglaries with force in homes,425,2020
+Zaragoza,Robberies with force in homes,913,2020
+Zaragoza,Theft,5765,2020
+Zaragoza,Vehicle theft,158,2020
+Zaragoza,Drug trafficking,245,2020
+Zaragoza,Other criminal offenses,19358,2020
+Malaga,Intentional homicides and consummated murders,8,2020
+Malaga,Intentional homicides and attempted murders,41,2020
+Malaga,Serious and less serious crimes of injuries and riotous brawl,691,2020
+Malaga,Kidnapping,5,2020
+Malaga,Crimes against freedom and sexual indemnity,458,2020
+Malaga,Sexual assault with penetration,58,2020
+Malaga,Other crimes against freedom and sexual indemnity,400,2020
+Malaga,Robbery with violence and intimidation,1119,2020
+Malaga,Burglaries with force in homes,689,2020
+Malaga,Robberies with force in homes,3007,2020
+Malaga,Theft,15265,2020
+Malaga,Vehicle theft,1293,2020
+Malaga,Drug trafficking,1045,2020
+Malaga,Other criminal offenses,42372,2020
+Barcelona,Intentional homicides and consummated murders,45,2019
+Barcelona,Intentional homicides and attempted murders,142,2019
+Barcelona,Serious and less serious crimes of injuries and riotous brawl,2389,2019
+Barcelona,Kidnapping,2,2019
+Barcelona,Crimes against freedom and sexual indemnity,2219,2019
+Barcelona,Sexual assault with penetration,412,2019
+Barcelona,Other crimes against freedom and sexual indemnity,1807,2019
+Barcelona,Robbery with violence and intimidation,23836,2019
+Barcelona,Burglaries with force in homes,23986,2019
+Barcelona,Robberies with force in homes,16180,2019
+Barcelona,Theft,165901,2019
+Barcelona,Vehicle theft,8392,2019
+Barcelona,Drug trafficking,1716,2019
+Barcelona,Other criminal offenses,157525,2019
+Madrid,Intentional homicides and consummated murders,32,2019
+Madrid,Intentional homicides and attempted murders,78,2019
+Madrid,Serious and less serious crimes of injuries and riotous brawl,2402,2019
+Madrid,Kidnapping,16,2019
+Madrid,Crimes against freedom and sexual indemnity,2221,2019
+Madrid,Sexual assault with penetration,243,2019
+Madrid,Other crimes against freedom and sexual indemnity,1978,2019
+Madrid,Robbery with violence and intimidation,15586,2019
+Madrid,Burglaries with force in homes,19317,2019
+Madrid,Robberies with force in homes,11484,2019
+Madrid,Theft,154217,2019
+Madrid,Vehicle theft,8086,2019
+Madrid,Drug trafficking,2427,2019
+Madrid,Other criminal offenses,205312,2019
+Valencia,Intentional homicides and consummated murders,23,2019
+Valencia,Intentional homicides and attempted murders,66,2019
+Valencia,Serious and less serious crimes of injuries and riotous brawl,1131,2019
+Valencia,Kidnapping,2,2019
+Valencia,Crimes against freedom and sexual indemnity,910,2019
+Valencia,Sexual assault with penetration,82,2019
+Valencia,Other crimes against freedom and sexual indemnity,828,2019
+Valencia,Robbery with violence and intimidation,2958,2019
+Valencia,Burglaries with force in homes,9674,2019
+Valencia,Robberies with force in homes,6660,2019
+Valencia,Theft,35820,2019
+Valencia,Vehicle theft,1677,2019
+Valencia,Drug trafficking,1031,2019
+Valencia,Other criminal offenses,68853,2019
+Murcia,Intentional homicides and consummated murders,13,2019
+Murcia,Intentional homicides and attempted murders,25,2019
+Murcia,Serious and less serious crimes of injuries and riotous brawl,736,2019
+Murcia,Kidnapping,3,2019
+Murcia,Crimes against freedom and sexual indemnity,531,2019
+Murcia,Sexual assault with penetration,49,2019
+Murcia,Other crimes against freedom and sexual indemnity,482,2019
+Murcia,Robbery with violence and intimidation,1528,2019
+Murcia,Burglaries with force in homes,6778,2019
+Murcia,Robberies with force in homes,5014,2019
+Murcia,Theft,15149,2019
+Murcia,Vehicle theft,905,2019
+Murcia,Drug trafficking,356,2019
+Murcia,Other criminal offenses,31679,2019
+Seville,Intentional homicides and consummated murders,9,2019
+Seville,Intentional homicides and attempted murders,40,2019
+Seville,Serious and less serious crimes of injuries and riotous brawl,695,2019
+Seville,Kidnapping,8,2019
+Seville,Crimes against freedom and sexual indemnity,550,2019
+Seville,Sexual assault with penetration,54,2019
+Seville,Other crimes against freedom and sexual indemnity,496,2019
+Seville,Robbery with violence and intimidation,2463,2019
+Seville,Burglaries with force in homes,6007,2019
+Seville,Robberies with force in homes,3657,2019
+Seville,Theft,26397,2019
+Seville,Vehicle theft,1926,2019
+Seville,Drug trafficking,519,2019
+Seville,Other criminal offenses,48365,2019
+Zaragoza,Intentional homicides and consummated murders,4,2019
+Zaragoza,Intentional homicides and attempted murders,7,2019
+Zaragoza,Serious and less serious crimes of injuries and riotous brawl,450,2019
+Zaragoza,Kidnapping,0,2019
+Zaragoza,Crimes against freedom and sexual indemnity,242,2019
+Zaragoza,Sexual assault with penetration,20,2019
+Zaragoza,Other crimes against freedom and sexual indemnity,222,2019
+Zaragoza,Robbery with violence and intimidation,1005,2019
+Zaragoza,Burglaries with force in homes,1980,2019
+Zaragoza,Robberies with force in homes,1279,2019
+Zaragoza,Theft,8961,2019
+Zaragoza,Vehicle theft,220,2019
+Zaragoza,Drug trafficking,262,2019
+Zaragoza,Other criminal offenses,21357,2019
+Malaga,Intentional homicides and consummated murders,25,2019
+Malaga,Intentional homicides and attempted murders,24,2019
+Malaga,Serious and less serious crimes of injuries and riotous brawl,829,2019
+Malaga,Kidnapping,11,2019
+Malaga,Crimes against freedom and sexual indemnity,565,2019
+Malaga,Sexual assault with penetration,42,2019
+Malaga,Other crimes against freedom and sexual indemnity,523,2019
+Malaga,Robbery with violence and intimidation,1605,2019
+Malaga,Burglaries with force in homes,5106,2019
+Malaga,Robberies with force in homes,4050,2019
+Malaga,Theft,24506,2019
+Malaga,Vehicle theft,1776,2019
+Malaga,Drug trafficking,1005,2019
+Malaga,Other criminal offenses,44516,2019
+Spain,Intentional homicides and consummated murders,5,2021
+Spain,Intentional homicides and attempted murders,19,2021
+Spain,Serious and less serious crimes of injuries and riotous brawl,382,2021
+Spain,Kidnapping,2,2021
+Spain,Crimes against freedom and sexual indemnity,321,2021
+Spain,Sexual assault with penetration,40,2021
+Spain,Other crimes against freedom and sexual indemnity,281,2021
+Spain,Robbery with violence and intimidation,1001,2021
+Spain,Burglaries with force in homes,2002,2021
+Spain,Robberies with force in homes,1425,2021
+Spain,Theft,9311,2021
+Spain,Vehicle theft,498,2021
+Spain,Drug trafficking,346,2021
+Spain,Other criminal offenses,23066,2021
+Spain,Intentional homicides and consummated murders,6,2020
+Spain,Intentional homicides and attempted murders,17,2020
+Spain,Serious and less serious crimes of injuries and riotous brawl,302,2020
+Spain,Kidnapping,1,2020
+Spain,Crimes against freedom and sexual indemnity,249,2020
+Spain,Sexual assault with penetration,30,2020
+Spain,Other crimes against freedom and sexual indemnity,218,2020
+Spain,Robbery with violence and intimidation,854,2020
+Spain,Burglaries with force in homes,388,2020
+Spain,Robberies with force in homes,1366,2020
+Spain,Theft,7942,2020
+Spain,Vehicle theft,479,2020
+Spain,Drug trafficking,323,2020
+Spain,Other criminal offenses,21161,2020
+Spain,Intentional homicides and consummated murders,6,2019
+Spain,Intentional homicides and attempted murders,16,2019
+Spain,Serious and less serious crimes of injuries and riotous brawl,377,2019
+Spain,Kidnapping,2,2019
+Spain,Crimes against freedom and sexual indemnity,289,2019
+Spain,Sexual assault with penetration,35,2019
+Spain,Other crimes against freedom and sexual indemnity,254,2019
+Spain,Robbery with violence and intimidation,1249,2019
+Spain,Burglaries with force in homes,2847,2019
+Spain,Robberies with force in homes,1859,2019
+Spain,Theft,13217,2019
+Spain,Vehicle theft,665,2019
+Spain,Drug trafficking,307,2019
+Spain,Other criminal offenses,22723,2019
+Alicante,Intentional homicides and consummated murders,14,2019
+Alicante,Intentional homicides and attempted murders,35,2019
+Alicante,Serious and less serious crimes of injuries and riotous brawl,766,2019
+Alicante,Kidnapping,2,2019
+Alicante,Crimes against freedom and sexual indemnity,677,2019
+Alicante,Sexual assault with penetration,85,2019
+Alicante,Other crimes against freedom and sexual indemnity,592,2019
+Alicante,Robbery with violence and intimidation,1665,2019
+Alicante,Burglaries with force in homes,9346,2019
+Alicante,Robberies with force in homes,6893,2019
+Alicante,Theft,26132,2019
+Alicante,Vehicle theft,1364,2019
+Alicante,Drug trafficking,774,2019
+Alicante,Other criminal offenses,48178,2019
+Alicante,Intentional homicides and consummated murders,18,2020
+Alicante,Intentional homicides and attempted murders,27,2020
+Alicante,Serious and less serious crimes of injuries and riotous brawl,640,2020
+Alicante,Kidnapping,4,2020
+Alicante,Crimes against freedom and sexual indemnity,573,2020
+Alicante,Sexual assault with penetration,81,2020
+Alicante,Other crimes against freedom and sexual indemnity,492,2020
+Alicante,Robbery with violence and intimidation,1187,2020
+Alicante,Burglaries with force in homes,620,2020
+Alicante,Robberies with force in homes,5479,2020
+Alicante,Theft,16192,2020
+Alicante,Vehicle theft,996,2020
+Alicante,Drug trafficking,816,2020
+Alicante,Other criminal offenses,45607,2020
+Alicante,Intentional homicides and consummated murders,10,2021
+Alicante,Intentional homicides and attempted murders,48,2021
+Alicante,Serious and less serious crimes of injuries and riotous brawl,878,2021
+Alicante,Kidnapping,4,2021
+Alicante,Crimes against freedom and sexual indemnity,838,2021
+Alicante,Sexual assault with penetration,99,2021
+Alicante,Other crimes against freedom and sexual indemnity,739,2021
+Alicante,Robbery with violence and intimidation,1212,2021
+Alicante,Burglaries with force in homes,6672,2021
+Alicante,Robberies with force in homes,5282,2021
+Alicante,Theft,18481,2021
+Alicante,Vehicle theft,969,2021
+Alicante,Drug trafficking,935,2021
+Alicante,Other criminal offenses,49211,2021
+Cordoba,Intentional homicides and consummated murders,7,2019
+Cordoba,Intentional homicides and attempted murders,11,2019
+Cordoba,Serious and less serious crimes of injuries and riotous brawl,203,2019
+Cordoba,Kidnapping,2,2019
+Cordoba,Crimes against freedom and sexual indemnity,205,2019
+Cordoba,Sexual assault with penetration,21,2019
+Cordoba,Other crimes against freedom and sexual indemnity,184,2019
+Cordoba,Robbery with violence and intimidation,490,2019
+Cordoba,Burglaries with force in homes,1731,2019
+Cordoba,Robberies with force in homes,897,2019
+Cordoba,Theft,6283,2019
+Cordoba,Vehicle theft,288,2019
+Cordoba,Drug trafficking,291,2019
+Cordoba,Other criminal offenses,16004,2019
+Cordoba,Intentional homicides and consummated murders,3,2020
+Cordoba,Intentional homicides and attempted murders,21,2020
+Cordoba,Serious and less serious crimes of injuries and riotous brawl,210,2020
+Cordoba,Kidnapping,4,2020
+Cordoba,Crimes against freedom and sexual indemnity,228,2020
+Cordoba,Sexual assault with penetration,22,2020
+Cordoba,Other crimes against freedom and sexual indemnity,206,2020
+Cordoba,Robbery with violence and intimidation,286,2020
+Cordoba,Burglaries with force in homes,168,2020
+Cordoba,Robberies with force in homes,648,2020
+Cordoba,Theft,4051,2020
+Cordoba,Vehicle theft,208,2020
+Cordoba,Drug trafficking,291,2020
+Cordoba,Other criminal offenses,15592,2020
+Cordoba,Intentional homicides and consummated murders,1,2021
+Cordoba,Intentional homicides and attempted murders,16,2021
+Cordoba,Serious and less serious crimes of injuries and riotous brawl,247,2021
+Cordoba,Kidnapping,0,2021
+Cordoba,Crimes against freedom and sexual indemnity,213,2021
+Cordoba,Sexual assault with penetration,24,2021
+Cordoba,Other crimes against freedom and sexual indemnity,189,2021
+Cordoba,Robbery with violence and intimidation,273,2021
+Cordoba,Burglaries with force in homes,1044,2021
+Cordoba,Robberies with force in homes,736,2021
+Cordoba,Theft,4505,2021
+Cordoba,Vehicle theft,183,2021
+Cordoba,Drug trafficking,184,2021
+Cordoba,Other criminal offenses,16675,2021
+Granada,Intentional homicides and consummated murders,12,2019
+Granada,Intentional homicides and attempted murders,20,2019
+Granada,Serious and less serious crimes of injuries and riotous brawl,330,2019
+Granada,Kidnapping,2,2019
+Granada,Crimes against freedom and sexual indemnity,240,2019
+Granada,Sexual assault with penetration,32,2019
+Granada,Other crimes against freedom and sexual indemnity,208,2019
+Granada,Robbery with violence and intimidation,844,2019
+Granada,Burglaries with force in homes,2389,2019
+Granada,Robberies with force in homes,1604,2019
+Granada,Theft,8034,2019
+Granada,Vehicle theft,433,2019
+Granada,Drug trafficking,644,2019
+Granada,Other criminal offenses,20654,2019
+Granada,Intentional homicides and consummated murders,10,2020
+Granada,Intentional homicides and attempted murders,27,2020
+Granada,Serious and less serious crimes of injuries and riotous brawl,300,2020
+Granada,Kidnapping,0,2020
+Granada,Crimes against freedom and sexual indemnity,208,2020
+Granada,Sexual assault with penetration,25,2020
+Granada,Other crimes against freedom and sexual indemnity,183,2020
+Granada,Robbery with violence and intimidation,566,2020
+Granada,Burglaries with force in homes,401,2020
+Granada,Robberies with force in homes,1123,2020
+Granada,Theft,4867,2020
+Granada,Vehicle theft,321,2020
+Granada,Drug trafficking,792,2020
+Granada,Other criminal offenses,20017,2020
+Granada,Intentional homicides and consummated murders,8,2021
+Granada,Intentional homicides and attempted murders,20,2021
+Granada,Serious and less serious crimes of injuries and riotous brawl,343,2021
+Granada,Kidnapping,1,2021
+Granada,Crimes against freedom and sexual indemnity,268,2021
+Granada,Sexual assault with penetration,43,2021
+Granada,Other crimes against freedom and sexual indemnity,225,2021
+Granada,Robbery with violence and intimidation,611,2021
+Granada,Burglaries with force in homes,1732,2021
+Granada,Robberies with force in homes,1178,2021
+Granada,Theft,5998,2021
+Granada,Vehicle theft,270,2021
+Granada,Drug trafficking,1007,2021
+Granada,Other criminal offenses,21570,2021
+Rioja,Intentional homicides and consummated murders,0,2019
+Rioja,Intentional homicides and attempted murders,5,2019
+Rioja,Serious and less serious crimes of injuries and riotous brawl,144,2019
+Rioja,Kidnapping,0,2019
+Rioja,Crimes against freedom and sexual indemnity,92,2019
+Rioja,Sexual assault with penetration,9,2019
+Rioja,Other crimes against freedom and sexual indemnity,83,2019
+Rioja,Robbery with violence and intimidation,90,2019
+Rioja,Burglaries with force in homes,604,2019
+Rioja,Robberies with force in homes,437,2019
+Rioja,Theft,2422,2019
+Rioja,Vehicle theft,68,2019
+Rioja,Drug trafficking,104,2019
+Rioja,Other criminal offenses,5283,2019
+Rioja,Intentional homicides and consummated murders,5,2020
+Rioja,Intentional homicides and attempted murders,3,2020
+Rioja,Serious and less serious crimes of injuries and riotous brawl,120,2020
+Rioja,Kidnapping,0,2020
+Rioja,Crimes against freedom and sexual indemnity,104,2020
+Rioja,Sexual assault with penetration,10,2020
+Rioja,Other crimes against freedom and sexual indemnity,94,2020
+Rioja,Robbery with violence and intimidation,78,2020
+Rioja,Burglaries with force in homes,440,2020
+Rioja,Robberies with force in homes,352,2020
+Rioja,Theft,1475,2020
+Rioja,Vehicle theft,31,2020
+Rioja,Drug trafficking,72,2020
+Rioja,Other criminal offenses,5484,2020
+Rioja,Intentional homicides and consummated murders,3,2021
+Rioja,Intentional homicides and attempted murders,5,2021
+Rioja,Serious and less serious crimes of injuries and riotous brawl,161,2021
+Rioja,Kidnapping,0,2021
+Rioja,Crimes against freedom and sexual indemnity,102,2021
+Rioja,Sexual assault with penetration,9,2021
+Rioja,Other crimes against freedom and sexual indemnity,93,2021
+Rioja,Robbery with violence and intimidation,116,2021
+Rioja,Burglaries with force in homes,455,2021
+Rioja,Robberies with force in homes,397,2021
+Rioja,Theft,1789,2021
+Rioja,Vehicle theft,59,2021
+Rioja,Drug trafficking,75,2021
+Rioja,Other criminal offenses,6309,2021
+Salamanca,Intentional homicides and consummated murders,0,2019
+Salamanca,Intentional homicides and attempted murders,2,2019
+Salamanca,Serious and less serious crimes of injuries and riotous brawl,86,2019
+Salamanca,Kidnapping,1,2019
+Salamanca,Crimes against freedom and sexual indemnity,65,2019
+Salamanca,Sexual assault with penetration,6,2019
+Salamanca,Other crimes against freedom and sexual indemnity,59,2019
+Salamanca,Robbery with violence and intimidation,99,2019
+Salamanca,Burglaries with force in homes,531,2019
+Salamanca,Robberies with force in homes,361,2019
+Salamanca,Theft,3269,2019
+Salamanca,Vehicle theft,46,2019
+Salamanca,Drug trafficking,62,2019
+Salamanca,Other criminal offenses,5733,2019
+Salamanca,Intentional homicides and consummated murders,2,2020
+Salamanca,Intentional homicides and attempted murders,2,2020
+Salamanca,Serious and less serious crimes of injuries and riotous brawl,64,2020
+Salamanca,Kidnapping,0,2020
+Salamanca,Crimes against freedom and sexual indemnity,53,2020
+Salamanca,Sexual assault with penetration,9,2020
+Salamanca,Other crimes against freedom and sexual indemnity,44,2020
+Salamanca,Robbery with violence and intimidation,87,2020
+Salamanca,Burglaries with force in homes,56,2020
+Salamanca,Robberies with force in homes,221,2020
+Salamanca,Theft,1826,2020
+Salamanca,Vehicle theft,49,2020
+Salamanca,Drug trafficking,78,2020
+Salamanca,Other criminal offenses,6029,2020
+Salamanca,Intentional homicides and consummated murders,1,2021
+Salamanca,Intentional homicides and attempted murders,4,2021
+Salamanca,Serious and less serious crimes of injuries and riotous brawl,80,2021
+Salamanca,Kidnapping,0,2021
+Salamanca,Crimes against freedom and sexual indemnity,78,2021
+Salamanca,Sexual assault with penetration,11,2021
+Salamanca,Other crimes against freedom and sexual indemnity,67,2021
+Salamanca,Robbery with violence and intimidation,83,2021
+Salamanca,Burglaries with force in homes,330,2021
+Salamanca,Robberies with force in homes,265,2021
+Salamanca,Theft,2303,2021
+Salamanca,Vehicle theft,60,2021
+Salamanca,Drug trafficking,61,2021
+Salamanca,Other criminal offenses,6600,2021
+Segovia,Intentional homicides and consummated murders,1,2019
+Segovia,Intentional homicides and attempted murders,2,2019
+Segovia,Serious and less serious crimes of injuries and riotous brawl,37,2019
+Segovia,Kidnapping,0,2019
+Segovia,Crimes against freedom and sexual indemnity,49,2019
+Segovia,Sexual assault with penetration,3,2019
+Segovia,Other crimes against freedom and sexual indemnity,46,2019
+Segovia,Robbery with violence and intimidation,24,2019
+Segovia,Burglaries with force in homes,381,2019
+Segovia,Robberies with force in homes,195,2019
+Segovia,Theft,877,2019
+Segovia,Vehicle theft,20,2019
+Segovia,Drug trafficking,43,2019
+Segovia,Other criminal offenses,3022,2019
+Segovia,Intentional homicides and consummated murders,8,2020
+Segovia,Intentional homicides and attempted murders,18,2020
+Segovia,Serious and less serious crimes of injuries and riotous brawl,426,2020
+Segovia,Kidnapping,2,2020
+Segovia,Crimes against freedom and sexual indemnity,315,2020
+Segovia,Sexual assault with penetration,42,2020
+Segovia,Other crimes against freedom and sexual indemnity,273,2020
+Segovia,Robbery with violence and intimidation,495,2020
+Segovia,Burglaries with force in homes,185,2020
+Segovia,Robberies with force in homes,1208,2020
+Segovia,Theft,7771,2020
+Segovia,Vehicle theft,475,2020
+Segovia,Drug trafficking,256,2020
+Segovia,Other criminal offenses,24015,2020
+Segovia,Intentional homicides and consummated murders,6,2021
+Segovia,Intentional homicides and attempted murders,13,2021
+Segovia,Serious and less serious crimes of injuries and riotous brawl,513,2021
+Segovia,Kidnapping,0,2021
+Segovia,Crimes against freedom and sexual indemnity,390,2021
+Segovia,Sexual assault with penetration,39,2021
+Segovia,Other crimes against freedom and sexual indemnity,351,2021
+Segovia,Robbery with violence and intimidation,520,2021
+Segovia,Burglaries with force in homes,1708,2021
+Segovia,Robberies with force in homes,1261,2021
+Segovia,Theft,7727,2021
+Segovia,Vehicle theft,414,2021
+Segovia,Drug trafficking,198,2021
+Segovia,Other criminal offenses,23381,2021
+Ceuta,Intentional homicides and consummated murders,4,2019
+Ceuta,Intentional homicides and attempted murders,16,2019
+Ceuta,Serious and less serious crimes of injuries and riotous brawl,44,2019
+Ceuta,Kidnapping,2,2019
+Ceuta,Crimes against freedom and sexual indemnity,23,2019
+Ceuta,Sexual assault with penetration,1,2019
+Ceuta,Other crimes against freedom and sexual indemnity,22,2019
+Ceuta,Robbery with violence and intimidation,145,2019
+Ceuta,Burglaries with force in homes,88,2019
+Ceuta,Robberies with force in homes,42,2019
+Ceuta,Theft,823,2019
+Ceuta,Vehicle theft,168,2019
+Ceuta,Drug trafficking,297,2019
+Ceuta,Other criminal offenses,3179,2019
+Ceuta,Intentional homicides and consummated murders,2,2020
+Ceuta,Intentional homicides and attempted murders,5,2020
+Ceuta,Serious and less serious crimes of injuries and riotous brawl,74,2020
+Ceuta,Kidnapping,0,2020
+Ceuta,Crimes against freedom and sexual indemnity,37,2020
+Ceuta,Sexual assault with penetration,2,2020
+Ceuta,Other crimes against freedom and sexual indemnity,35,2020
+Ceuta,Robbery with violence and intimidation,128,2020
+Ceuta,Burglaries with force in homes,59,2020
+Ceuta,Robberies with force in homes,37,2020
+Ceuta,Theft,471,2020
+Ceuta,Vehicle theft,84,2020
+Ceuta,Drug trafficking,220,2020
+Ceuta,Other criminal offenses,2558,2020
+Ceuta,Intentional homicides and consummated murders,2,2021
+Ceuta,Intentional homicides and attempted murders,10,2021
+Ceuta,Serious and less serious crimes of injuries and riotous brawl,73,2021
+Ceuta,Kidnapping,3,2021
+Ceuta,Crimes against freedom and sexual indemnity,47,2021
+Ceuta,Sexual assault with penetration,4,2021
+Ceuta,Other crimes against freedom and sexual indemnity,43,2021
+Ceuta,Robbery with violence and intimidation,195,2021
+Ceuta,Burglaries with force in homes,69,2021
+Ceuta,Robberies with force in homes,31,2021
+Ceuta,Theft,434,2021
+Ceuta,Vehicle theft,103,2021
+Ceuta,Drug trafficking,205,2021
+Ceuta,Other criminal offenses,2785,2021
+Melilla,Intentional homicides and consummated murders,1,2019
+Melilla,Intentional homicides and attempted murders,8,2019
+Melilla,Serious and less serious crimes of injuries and riotous brawl,146,2019
+Melilla,Kidnapping,0,2019
+Melilla,Crimes against freedom and sexual indemnity,33,2019
+Melilla,Sexual assault with penetration,5,2019
+Melilla,Other crimes against freedom and sexual indemnity,28,2019
+Melilla,Robbery with violence and intimidation,373,2019
+Melilla,Burglaries with force in homes,131,2019
+Melilla,Robberies with force in homes,71,2019
+Melilla,Theft,1204,2019
+Melilla,Vehicle theft,76,2019
+Melilla,Drug trafficking,63,2019
+Melilla,Other criminal offenses,3577,2019
+Melilla,Intentional homicides and consummated murders,0,2020
+Melilla,Intentional homicides and attempted murders,2,2020
+Melilla,Serious and less serious crimes of injuries and riotous brawl,157,2020
+Melilla,Kidnapping,0,2020
+Melilla,Crimes against freedom and sexual indemnity,34,2020
+Melilla,Sexual assault with penetration,4,2020
+Melilla,Other crimes against freedom and sexual indemnity,30,2020
+Melilla,Robbery with violence and intimidation,300,2020
+Melilla,Burglaries with force in homes,65,2020
+Melilla,Robberies with force in homes,44,2020
+Melilla,Theft,778,2020
+Melilla,Vehicle theft,42,2020
+Melilla,Drug trafficking,232,2020
+Melilla,Other criminal offenses,2857,2020
+Melilla,Intentional homicides and consummated murders,0,2021
+Melilla,Intentional homicides and attempted murders,4,2021
+Melilla,Serious and less serious crimes of injuries and riotous brawl,119,2021
+Melilla,Kidnapping,0,2021
+Melilla,Crimes against freedom and sexual indemnity,39,2021
+Melilla,Sexual assault with penetration,2,2021
+Melilla,Other crimes against freedom and sexual indemnity,37,2021
+Melilla,Robbery with violence and intimidation,201,2021
+Melilla,Burglaries with force in homes,68,2021
+Melilla,Robberies with force in homes,55,2021
+Melilla,Theft,576,2021
+Melilla,Vehicle theft,35,2021
+Melilla,Drug trafficking,230,2021
+Melilla,Other criminal offenses,2842,2021
